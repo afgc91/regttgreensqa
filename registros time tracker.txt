@@ -1,0 +1,5 @@
+2018-05-31	Reunión con Rosa para consolidar avances y pendientes por parte nuestra y del cliente.	2
+2018-05-31	Revisión de documentación de Avianca sobre las integraciones junto con diagrama de red y arquitectura 	4
+2018-05-31	Prueba de los WS de las URL's enviadas en Apache JMeter.	3
+2018-06-01	Tutorial de herramienta Kettle para pruebas de migración.	5
+2018-06-01	Realizar escenarios de PNF para Avianca CRM Dynamics.	4

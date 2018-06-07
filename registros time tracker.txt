@@ -3,3 +3,11 @@
 2018-05-31	Prueba de los WS de las URL's enviadas en Apache JMeter.	3
 2018-06-01	Tutorial de herramienta Kettle para pruebas de migración.	5
 2018-06-01	Realizar escenarios de PNF para Avianca CRM Dynamics.	4
+2018-06-05	Reunión con Diana Hurtado para contextualización de Studio F	1
+2018-06-05	Realización estrategia de ejecución de PNF a Avianca CMOS	4
+2018-06-05	Tutorial de herramienta Kettle para pruebas de migración	3.5
+2018-06-05	Reunión sobre estrategia de ejecución de PNF Avianca CMOS con Margaret, Aura y Zuleima	0.5
+2018-06-06	Reunión con Rosa Rivera para contextualización del frente Deprisa, del proyecto Avianca CRM Dynamics PNF	1
+2018-06-06	Aprendizaje de la arquitectura de Studio F.	4
+2018-06-06	Validación de accesos al sistema de Studio F.	3
+2018-06-06	Aprendizaje de la arquitectura de la aplicación AMOS de Avianca	1

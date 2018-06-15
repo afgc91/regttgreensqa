@@ -1,13 +1,22 @@
 2018-05-31	Reunión con Rosa para consolidar avances y pendientes por parte nuestra y del cliente.	2
-2018-05-31	Revisión de documentación de Avianca sobre las integraciones junto con diagrama de red y arquitectura 	4
+2018-05-31	Revisión de documentación de Avianca sobre las integraciones junto con diagrama de red y arquitectura. 	4
 2018-05-31	Prueba de los WS de las URL's enviadas en Apache JMeter.	3
 2018-06-01	Tutorial de herramienta Kettle para pruebas de migración.	5
 2018-06-01	Realizar escenarios de PNF para Avianca CRM Dynamics.	4
-2018-06-05	Reunión con Diana Hurtado para contextualización de Studio F	1
-2018-06-05	Realización estrategia de ejecución de PNF a Avianca CMOS	4
-2018-06-05	Tutorial de herramienta Kettle para pruebas de migración	3.5
-2018-06-05	Reunión sobre estrategia de ejecución de PNF Avianca CMOS con Margaret, Aura y Zuleima	0.5
-2018-06-06	Reunión con Rosa Rivera para contextualización del frente Deprisa, del proyecto Avianca CRM Dynamics PNF	1
+2018-06-05	Reunión con Diana Hurtado para contextualización de Studio F.	1
+2018-06-05	Realización estrategia de ejecución de PNF a Avianca CMOS.	4
+2018-06-05	Tutorial de herramienta Kettle para pruebas de migración.	3.5
+2018-06-05	Reunión sobre estrategia de ejecución de PNF Avianca CMOS con Margaret, Aura y Zuleima.	0.5
+2018-06-06	Reunión con Rosa Rivera para contextualización del frente Deprisa, del proyecto Avianca CRM Dynamics PNF.	1
 2018-06-06	Aprendizaje de la arquitectura de Studio F.	4
 2018-06-06	Validación de accesos al sistema de Studio F.	3
-2018-06-06	Aprendizaje de la arquitectura de la aplicación AMOS de Avianca	1
+2018-06-06	Aprendizaje de la arquitectura de la aplicación AMOS de Avianca.	1
+2018-06-07	Revisión documentación de Avianca CRM Dynamics del frente de Deprisa.	5
+2018-06-07	Pruebas en Postman de los servicios expuestos de Deprisa con Postman.	4
+2018-06-08	Revisión contratos CRM Dynamics.	8
+2018-06-08	Validación de accesos a web services CRM Dynamics.	1
+2018-06-12	Pruebas de accesibilidad y permisos por usuarios en VSTS con Mauricio.	2
+2018-06-12	Validación de accesos a web services de CRM Dynamics con nuevos datos de autenticación proporcionados por el cliente.	7
+2018-06-13	Revisión documentación técnica de Studio F.	9
+2018-06-14	Revisión documentación técnica de Studio F.	5
+2018-06-14	Validación de accesos a web services de Studio F.	4

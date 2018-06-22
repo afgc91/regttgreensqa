@@ -20,3 +20,9 @@
 2018-06-13	Revisión documentación técnica de Studio F.	9
 2018-06-14	Revisión documentación técnica de Studio F.	5
 2018-06-14	Validación de accesos a web services de Studio F.	4
+2018-06-15	Reunión contextualización arquitectura y documentación técnica de Optimus Studio F.	3
+2018-06-15	Revisión documentación web services de Optimus Studio F.	6
+2018-06-18	Validación de acceso a web services de  Studio F.	6
+2018-06-18	Validación de accesos a web services de CRM Dynamics Deprisa de acuerdo a la última información entregada por el cliente.	3
+2018-06-21	Reunión con Óscar Flórez para solucionar problemas de acceso al sistema de Studio F.	9
+2018-06-22	Configuración de VPN para acceso remoto a Studio F	9
